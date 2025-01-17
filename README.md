@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on spatial computing using an Apple vision Pro and extending juypter notebooks
+- 🌱 I’m currently learning Swift, Javascript and more Python
+- 👯 I’m looking to collaborate on making new ways to present data spatially
+- 🤔 I’m looking for help with understanding VR / AR / Spatial computing
+- 💬 Ask me about LLMs 
+- 📫 How to reach me: zitterbewegung at gmail dot com
+
+Bio:
+
+As a Twitch streamer I communicate to others on how to understand and make software engineering decisions backed by eleven years of experience. I mainly specialize in Python and I have some simple stateless React applications using templates. During my tenure at Bank of America I created a Python micro service application and I adapted an Openfin template given to me to make a request to the ReST service to increase our efficiency in our business analyze and QA team productivity. I also led a same-day settlement system and did more UI improvements using Quartz an Bank of America Python framework for UI , VCS and scheduled tasks. I was a Speaker at DEF CON 31 where I made a network natural language scanner available at securday.com which I also maintain and evaluate its performance.
 <!--
 **zitterbewegung/zitterbewegung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
