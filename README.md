@@ -9,7 +9,7 @@
 
 Bio:
 
-As a Twitch streamer I communicate to others on how to understand and make software engineering decisions, do leetcode for interview preperation and do visionos applications using Python and Swift backed by eleven years of experience. 
+I am a software engineer with 14 years of experience in software development from backend systems, website design and implementation and DevOps on Unix/Linux, and I am an expert in Python for data validation and enrichment and UI/UX for the desktop using the Here enterprise browser and the web. My key achievements include reducing QA deal compression debugging time with a React desktop app making a middleware rest microservice that improved the productivity of our QA time by reducing lookup times from minutes to seconds. I also lead a project that would perform same day settlement of deals and ETL of currency trades into backend data lakes. Also, to teach myself new technology trends I have made Securday which is a chatbot that performs network scanning using OpenAI's APIs which was featured at DEF CON which is the largest information security conference.
 <!--
 **zitterbewegung/zitterbewegung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
