@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-- 🐍 I am an expert at the Python programming language
-- I am a contributor https://github.com/python/cpython
-- 🔭 I’m currently working on spatial computing using an Apple vision Pro.
+- 🐍 I am an expert at the Python programming language.
+- 🤔 I’m looking for a job focusing on Python and finance.
+- 😄 Pronouns: He / Him.
+- 💬 Ask me about LLMs, strategies to orchestrate them, and architectures.
+- ⚡ Fun fact: I am a contributor https://github.com/python/cpython.
+- 🔭 I’m currently working on an spatial computing using an Apple vision Pro.
 - 🔎 I've made http://www.securday.com A natural language network scanner!
 - 🌱 I’m currently learning Swift, Javascript.
 - 👯 I’m looking to collaborate on making new ways to present data spatially
-- 🤔 I’m looking for a job focusing on Python and finance.
-- 💬 Ask me about LLMs 
+
 - 📫 How to reach me: zitterbewegung at gmail dot com
 
 Bio:
