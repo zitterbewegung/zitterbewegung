@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on spatial computing using an Apple vision Pro and extending juypter notebooks
-- 🌱 I’m currently learning Swift, Javascript and more Python
+- 🐍 I am an expert at the Python programming language and I am a contributor https://github.com/python/cpython
+- 🔭 I’m currently working on spatial computing using an Apple vision Pro and extending juypter notebooks.
+- 🔎 I've made http://www.securday.com A natural language network scanner!
+- 🌱 I’m currently learning Swift, Javascript.
 - 👯 I’m looking to collaborate on making new ways to present data spatially
 - 🤔 I’m looking for help with understanding VR / AR / Spatial computing
 - 💬 Ask me about LLMs 
