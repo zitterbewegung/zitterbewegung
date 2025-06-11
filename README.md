@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 - 🐍 I am an expert at the Python programming language.
 - 🤔 I’m looking for a job focusing on Python and finance.
@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Swift, Javascript.
 - 👯 I’m looking to collaborate on making new ways to present data spatially
 
+- 
 - 📫 How to reach me: zitterbewegung at gmail dot com
 
 Bio:
