@@ -5,7 +5,7 @@
 - 😄 Pronouns: He / Him.
 - 💬 Ask me about LLMs, strategies to orchestrate them, and architectures.
 - ⚡ Fun fact: I am a contributor https://github.com/python/cpython.
-- 🔭 I’m currently working on an spatial computing using an Apple vision Pro.
+- 🔭 I’m currently working on an spatial computing app using the Apple vision Pro.
 - 🔎 I've made http://www.securday.com A natural language network scanner!
 - 🌱 I’m currently learning Swift, Javascript.
 - 👯 I’m looking to collaborate on making new ways to present data spatially
