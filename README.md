@@ -7,7 +7,7 @@
 - 😄 Pronouns: **He / Him**
 - 💬 Ask me about **LLMs**, orchestration strategies, and architectures
 - ⚡ Fun fact: contributor to **CPython** → https://github.com/python/cpython
-- 🔭 Currently building a **spatial computing** app for **Apple Vision Pro**
+- 🔭 Learning Swift by making an **spatial computing** app for **Apple Vision Pro**
 - 🔎 I made **Securday** → http://www.securday.com (natural-language network scanner)
 - 🌱 Learning **Swift** and **JavaScript**
 - 👯 Open to collaborating on **spatial data presentation** projects
