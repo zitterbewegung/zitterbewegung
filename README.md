@@ -13,8 +13,6 @@
 
 # Talks
 
-> **Event badges:** ![badge](https://img.shields.io/badge/Event-DEF%20CON-000000) ![badge](https://img.shields.io/badge/Event-Skytalks-39FF14) ![badge](https://img.shields.io/badge/Event-THOTCON-8a2be2) ![badge](https://img.shields.io/badge/Event-PyOhio-f37726) ![badge](https://img.shields.io/badge/Event-ChiPy-3776AB)
-
 ## 2025
 - ![thumb](https://placehold.co/480x270?text=Slides) **To pickle or not to pickle**  
   ![badge](https://img.shields.io/badge/Event-ChiPy-3776AB) ![badge](https://img.shields.io/badge/Type-User%20Group-6c757d) — Jun 11, 2025  
