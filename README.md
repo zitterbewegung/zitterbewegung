@@ -3,12 +3,13 @@
 
 ### Quick facts
 - 🐍 **Expert in Python**
-- 💼 Seeking roles at the intersection of **Python** and **finance**
+- 💼 Seeking roles as a software engineer intersection for backend **Python** development
 - 😄 Pronouns: **He / Him**
 - 💬 Ask me about **LLMs**, orchestration strategies, and architectures
 - ⚡ Fun fact: contributor to **CPython** → https://github.com/python/cpython
 - 🔭 Learning Swift by making an **spatial computing** app for **Apple Vision Pro**
-- 🔎 I made **Securday** → http://www.securday.com (natural-language network scanner)
+- 🔎 I made (**Securday**)[http://www.securday.com] a natural-language network scanner.
+- 🤖 Check out my (Tindie store)[https://www.tindie.com/products/zitterbewegung/psychic-paper/] where I sell 
 - 🌱 Learning **Swift** and **JavaScript**
 - 👯 Open to collaborating on **spatial data presentation** projects
 
