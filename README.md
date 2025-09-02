@@ -19,7 +19,7 @@
 
 # GitHub Contributions by **zitterbewegung**
 
-### [python/cpython](https://github.com/python/cpython)  
+### [The Python programming language](https://github.com/python/cpython)  
   
 
 - Corrected behavior of the exponent operator (`**`) to prevent `Fraction` from being cast to `float` with arbitrary exponents.
