@@ -19,7 +19,7 @@
 
 # GitHub Contributions by **zitterbewegung**
 
-## python/cpython  
+### python/cpython  
   
 
 - Corrected behavior of the exponent operator (`**`) to prevent `Fraction` from being cast to `float` with arbitrary exponents.
@@ -27,7 +27,7 @@
   
 - Implemented sharding to run `test_asyncio` sub-tests in parallel resulting in a 1.5x speedup.
   - **PR #103927 (April 2023). ** 
-
+- Triaged issue [84129](https://github.com/python/cpython/issues/84129) to be closed due to being open for five years.
 ---
 
 # Talks
