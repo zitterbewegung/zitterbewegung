@@ -17,6 +17,21 @@
 
 ---
 
+# GitHub Contributions by **zitterbewegung**
+
+## python/cpython  
+  
+
+- Corrected behavior of the exponent operator (`**`) to prevent `Fraction` from being cast to `float` with arbitrary exponents.
+  - **PR #119242 (May 2024).**
+  
+- Implemented sharding to run `test_asyncio` sub-tests in parallel resulting in a 1.5x speedup.
+  - **PR #103927 (April 2023). ** 
+
+---
+
+# Talks
+
 ## 2025
 - **To pickle or not to pickle**  
   ![badge](https://img.shields.io/badge/Event-ChiPy-3776AB) ![badge](https://img.shields.io/badge/Type-User%20Group-6c757d) — Jun 11, 2025  
