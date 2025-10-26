@@ -5,12 +5,12 @@
 - 🐍 **Expert in Python**
 - 👨‍💻 I do freelance software development. Contact me at zitterbewegung at gmail dot com
 - 💼 Seeking roles as a software engineer intersection for backend **Python** development
-- 💰I have specializtion in finance and fintech
+- 💰I have seven years of experience in in finance and fintech
 - 😄 Pronouns: **He / Him**
 - 💬 Ask me about **LLMs**, orchestration strategies, and architectures
 - ⚡ Fun fact: contributor to **CPython** → https://github.com/python/cpython
 - 🔭 Learning Swift by making an **spatial computing** app for **Apple Vision Pro**
-- 🔎 I made (**Securday**)[http://www.securday.com] a natural-language network scanner.
+- 🔎 I made (**Securday**)[http://www.securday.com] a natural-language network scanner
 - 🤖 Check out my (Tindie store)[https://www.tindie.com/products/zitterbewegung/psychic-paper/] where I sell 
 - 🌱 Learning **Swift** and **JavaScript**
 - 👯 Open to collaborating on **spatial data presentation** projects
