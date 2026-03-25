@@ -4,7 +4,7 @@
 ### Quick facts
 - 🐍 **Expert in Python**
 - 👨‍💻 I do freelance software development. Contact me at zitterbewegung at gmail dot com
-- 💼 Seeking roles as a software engineer intersection for backend **Python** development
+- 💼 Also, Seeking roles as a software engineer intersection for backend **Python** or full stack **Javascript** / **Typescript** development
 - 💰I have seven years of experience in in finance and fintech
 - 😄 Pronouns: **He / Him**
 - 💬 Ask me about **LLMs**, orchestration strategies, and architectures
