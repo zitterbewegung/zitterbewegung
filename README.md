@@ -11,8 +11,8 @@
 - 💬 Ask me about **LLMs**, orchestration strategies, and architectures
 - ⚡ Fun fact: contributor to **CPython** → https://github.com/python/cpython
 - 🔭 Learning Swift by making an **spatial computing** app for **Apple Vision Pro**
-- 🔎 I made [http://www.securday.com](Securday) a natural-language network scanner
-- 🤖 Check out my [https://www.tindie.com/products/zitterbewegung/psychic-paper/](Tindie store) where I sell 
+- 🔎 I made [Securday](http://www.securday.com) a natural-language network scanner
+- 🤖 Check out my [Tindie store](https://www.tindie.com/products/zitterbewegung/psychic-paper/) where I sell 
 - 🌱 Learning **Swift** and **JavaScript**
 - 👯 Open to collaborating on **spatial data presentation** projects
 
