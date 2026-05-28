@@ -2,7 +2,7 @@
 
 
 ### Quick facts
-- 𝝅  I do vibe proving using https://aristotle.harmonic.fun and chatgpt
+- 𝝅  I do vibe proving using [https://aristotle.harmonic.fun]Aristotle and chatgpt
 - 🐍 **Expert in Python**
 - 👨‍💻 I do freelance software development. Contact me at zitterbewegung at gmail dot com
 - 💼 Also, Seeking roles as a software engineer intersection for backend **Python** or full stack **Javascript** / **Typescript** development
@@ -11,8 +11,8 @@
 - 💬 Ask me about **LLMs**, orchestration strategies, and architectures
 - ⚡ Fun fact: contributor to **CPython** → https://github.com/python/cpython
 - 🔭 Learning Swift by making an **spatial computing** app for **Apple Vision Pro**
-- 🔎 I made (**Securday**)[http://www.securday.com] a natural-language network scanner
-- 🤖 Check out my (Tindie store)[https://www.tindie.com/products/zitterbewegung/psychic-paper/] where I sell 
+- 🔎 I made [http://www.securday.com] (**Securday**) a natural-language network scanner
+- 🤖 Check out my [https://www.tindie.com/products/zitterbewegung/psychic-paper/](Tindie store) where I sell 
 - 🌱 Learning **Swift** and **JavaScript**
 - 👯 Open to collaborating on **spatial data presentation** projects
 
