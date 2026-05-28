@@ -2,7 +2,7 @@
 
 
 ### Quick facts
-- 𝝅  I do vibe proving using [https://aristotle.harmonic.fun]Aristotle and chatgpt
+- 𝝅  I do vibe proving using [https://aristotle.harmonic.fun](Aristotle) and chatgpt
 - 🐍 **Expert in Python**
 - 👨‍💻 I do freelance software development. Contact me at zitterbewegung at gmail dot com
 - 💼 Also, Seeking roles as a software engineer intersection for backend **Python** or full stack **Javascript** / **Typescript** development
